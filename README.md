@@ -1,14 +1,14 @@
-# Event Scheduler
+# Employee Scheduler
 
 ## Welcome
 
-Thank you for taking the time to review my event scheduler!
+Thank you for taking the time to review my employee scheduler!
 
 ## Description
 
-[event-scheduler](https://github.com/VMLujanJr/event-scheduler) is an interactive quiz that covers basic JavaScript fundamentals in a simple question & answer format with next and previous buttons.
+[employee-scheduler](https://github.com/adrianapvent/employee-scheduler) is a schedule that is interactive.
 
-You may also visit the interactive [website](https://github.com/VMLujanJr/event-scheduler) to try out the quiz yourself.
+You may also visit the interactive [website](https://github.com/adrianapvent/employee-scheduler) to try out the scheduler yourself.
 
 ## Objectives
 ```
@@ -109,12 +109,12 @@ A list of languages used for this project:
 
 ## Credits
 
-You may visit my [GitHub](https://github.com/VMLujanJr) profile to view my previous and most recent projects.
+You may visit my [GitHub](https://github.com/adrianapvent) profile to view my previous and most recent projects.
 
 ## License
 MIT License
 
-Copyright (c) 2022 VMLujanJr
+Copyright (c) 2022 adrianapvent
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
