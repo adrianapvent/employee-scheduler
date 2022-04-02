@@ -8,7 +8,7 @@ Thank you for taking the time to review my employee scheduler!
 
 [employee-scheduler](https://github.com/adrianapvent/employee-scheduler) is a schedule that is interactive.
 
-You may also visit the interactive [website](https://github.com/adrianapvent/employee-scheduler) to try out the scheduler yourself.
+You may also visit the interactive [website](https://adrianapvent.github.io/employee-scheduler/) to try out the scheduler yourself.
 
 ## Objectives
 ```
