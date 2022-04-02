@@ -13,6 +13,12 @@ body {
     padding: 10px;
   }
   
+  .container {
+    max-width: 800;
+    margin: auto;
+    padding: 10px;
+  }
+
   .jumbotron {
     text-align: center;
     background-color: transparent;
@@ -23,11 +29,14 @@ body {
   
   .description{
     white-space: pre-wrap;
+    flex-grow: 1;
+    text-align: center;
   }
   
   .time-block{
     text-align: center;
     border-radius: 15px;
+  
   }
   
   .row {
@@ -65,7 +74,8 @@ body {
     color: white;
   }
   
-  .saveBtn i:hover {
+  .saveBtn span:hover {
+    color: black; 
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
